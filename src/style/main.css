@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.card .card-body table td .btn-edit {
+  color: #0B22F9;
+  cursor: pointer;
+}
+
+.card .card-body table td .btn-edit:hover {
+  color: #081ABF;
+}
+
+.card .card-body table td .btn-delete {
+  color: #f41164;
+  cursor: pointer;
+}
+
+.card .card-body table td .btn-delete:hover {
+  color: #C10046;
+}
+/*# sourceMappingURL=main.css.map */

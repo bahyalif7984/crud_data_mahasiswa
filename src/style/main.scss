@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+.card{
+.card-body{
+    table{
+        td{
+            .btn-edit{
+                color: #0B22F9;
+                cursor: pointer;
+                &:hover{
+                    color: #081ABF;
+                }
+            }
+            .btn-delete{
+                color: #f41164;
+                cursor: pointer;
+                &:hover{
+                    color: #C10046;
+                }
+            }
+        }
+    }
+}
+}
